@@ -1,0 +1,64 @@
+.resume {
+    text-align: center;
+}
+
+.btn:hover {
+    background: rgb(52, 52, 218);
+}
+
+.resume {
+    color: white;
+    text-decoration: none;
+}
+
+.work {
+    color: rgb(71, 69, 69);
+    text-decoration: none;
+}
+
+.btn.btn-outline-secondary.btn-lg.px-4:hover {
+    background-color: rgb(112, 103, 103);
+}
+
+.btn.btn-outline-secondary.btn-lg.px-4:hover .work {
+    color: white;
+}
+
+.bi.me-2 {
+    width: 1em;
+    height: 1em;
+    vertical-align: -.125em;
+    fill: currentcolor;
+    margin-right: .5rem!important;
+}
+
+.a-header {
+    background: linear-gradient(to right, #579c5b, #c0f7d1);
+}
+
+body {
+    background: rgb(255, 237, 237);
+}
+
+.feature-icon {
+    border-radius: 50%;
+}
+
+.col h4 + p a {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(109, 109, 109);
+}
+
+a:hover {
+    color: rgb(43, 42, 42);
+}
+
+.img-fluid.shadow-lg.mb-4 {
+    border-radius: 50%;
+}
+
+
